@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+import('next').NextConfig
 module.exports = {
   output: 'standalone',
 }
